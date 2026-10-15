@@ -76,7 +76,7 @@
     z-index: 1;
 }
 
-.cover__title{
+.cover__title {
     display: grid;
     font-size: 100px;
     font-weight: 700;
@@ -86,7 +86,7 @@
     row-gap: 20px;
 }
 
-.cover__title h1{
+.cover__title h1 {
     font-size: inherit;
 }
 
@@ -94,7 +94,7 @@
     justify-self: start;
 }
 
-.to_you{
+.to_you {
     justify-self: center;
 }
 
